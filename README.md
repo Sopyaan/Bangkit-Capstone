@@ -1,7 +1,7 @@
 # C242-PS075 [DeRMA]
 
 <p align="center">
-  <img src="", width="" height="">
+  <img src="https://drive.google.com/file/d/1WAc1HTmZ1rk3iyUuQFNPt8rBXcCfHyIq/view?usp=drive_link", width="" height="">
 </p>
 
 
