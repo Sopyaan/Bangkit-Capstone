@@ -1,7 +1,7 @@
 # C242-PS075 [DeRMA]
 
 <p align="center">
-  <img src="", width="" height="">
+  <img src="https://github.com/Sopyaan/Bangkit-Capstone/blob/main/img/Background.png", width="" height="">
 </p>
 
 
